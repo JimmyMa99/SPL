@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 - PASCAL VOC 2012
     - [Images](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
-    - [Saliency maps](https://drive.google.com/file/d/19AjSmgdMlIZH4FXVZ5zjlUZcoZZCkwrI/view?usp=sharing) using Poolnet
+    - Saliency maps using Poolnet
 - Pretrained models
     - [ImageNet-pretrained Model](https://drive.google.com/file/d/1WvSkPfAtfPzyxcgG58a1RlRayMYb3FBc/view?usp=share_link) for [ResNet38](https://arxiv.org/abs/1611.10080)
 
