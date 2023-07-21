@@ -2,7 +2,11 @@
 
 The Official PyTorch code for “[A Weakly Supervised Semantic Segmentation Method based on Local Superpixel Transformation](https://europepmc.org/article/PPR/PPR635314)”.
 
-![p2.png](SPL.png)
+![p1.png](figure/cam_show.png)
+
+![p2.png](figure/SPL.png)
+
+![p3.png](figure/seg_result.png)
 
 Our code will be made publicly available after the paper is accepted.
 
