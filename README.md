@@ -25,6 +25,7 @@ pip install -r requirements.txt
 - PASCAL VOC 2012
     - [Images](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
     - Saliency maps using Poolnet
+	Please set the dataset path in `dataset_root.py`.
 - Pretrained models
     - [ImageNet-pretrained Model](https://drive.google.com/file/d/1WvSkPfAtfPzyxcgG58a1RlRayMYb3FBc/view?usp=share_link) for [ResNet38](https://arxiv.org/abs/1611.10080)
 
