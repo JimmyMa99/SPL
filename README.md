@@ -8,7 +8,6 @@ The Official PyTorch code for “[A Weakly Supervised Semantic Segmentation Meth
 
 ![p3.png](figure/seg_result.png)
 
-Our code will be made publicly available after the paper is accepted.
 
 # Installation
 
@@ -49,3 +48,11 @@ If you use our codes and models in your research, please cite:
 	URL = {https://doi.org/10.21203/rs.3.rs-2714436/v1},
 }
 ```
+
+# TODO
+
+A gradio run effect demo.
+
+# Latest Update
+
+2023.8.28 🎉🎉Our paper was accepted and the full code will be made public soon!
